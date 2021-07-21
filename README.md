@@ -1,1 +1,1 @@
-# AI-nuralNetwork-Regression
+# AI-neuralNetwork-Regression
